@@ -1,6 +1,6 @@
 # Xyfen
 its that simple
-## what is xyfen?
+## What is Xyfen?
 xyfen is THE MOST simple and lightweight executor,
 it uses Velocity api to guarantee a 100 procent **sUNC** and 99 procent **UNC** Score!
 ## Note
